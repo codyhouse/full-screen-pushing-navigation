@@ -1,10 +1,15 @@
-Full-Screen Pushing Navigation
-=========
+# Full-Screen Pushing Navigation
 
 A full page menu, that replaces the current content by pushing it off the screen.
 
-[Article on CodyHouse](http://codyhouse.co/gem/full-screen-pushing-navigation/)
+[Article on CodyHouse](https://codyhouse.co/gem/full-screen-pushing-navigation)
 
-[Demo](http://codyhouse.co/demo/full-screen-pushing-navigation/index.html)
+[Demo](https://codyhouse.co/demo/full-screen-pushing-navigation)
  
-[Terms](http://codyhouse.co/terms/)
+[License](https://codyhouse.co/license)
+
+## Dependencies
+
+This experiment is built upon the [CodyHouse Framework](https://github.com/CodyHouse/codyhouse-framework).
+
+Make sure to include both the _global.scss and util.js files of the framework.
